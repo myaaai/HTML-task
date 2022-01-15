@@ -27,21 +27,21 @@ main {
 }
 .step-img1 {
   height: 150px;
-  width: 90%;
+  width: 100%;
   background-image: url(img/flow01.png);
   background-position: bottom;
   background-size: cover;
 }
 .step-img2 {
   height: 150px;
-  width: 90%;
+  width: 100%;
   background-image: url(img/flow02.png);
   background-position: bottom;
   background-size: cover;
 }
 .step-img3 {
   height: 150px;
-  width: 90%;
+  width: 100%;
   background-image: url(img/flow03.png);
   background-position: bottom;
   background-size: cover;
@@ -72,5 +72,8 @@ footer {
   .step-box {
     width: 90%;
     margin: 20px;
+  }
+  .step-img {
+    width: 90%;
   }
 }
